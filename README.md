@@ -1,9 +1,5 @@
 # Portfólio - Edson Carvalho
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Edson468/Edson468.github.io)
-![GitHub repo size](https://img.shields.io/github/repo-size/Edson468/Edson468.github.io)
-![GitHub](https://img.shields.io/github/license/Edson468/Edson468.github.io)
-
 ## 🚀 Sobre o Projeto
 
 Este é o meu portfólio pessoal, desenvolvido para mostrar meus projetos, habilidades e experiência como desenvolvedor Front-end em formação. O site apresenta um design responsivo e moderno, com foco em usabilidade e experiência do usuário.
